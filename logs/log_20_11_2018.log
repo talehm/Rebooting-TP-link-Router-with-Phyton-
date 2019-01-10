@@ -1,7 +1,15 @@
 
-20, Nov 2018 12:58:39 PM Connecting to: AP076
+20, Nov 2018 12:58:39 PM Connecting to: ADDRESS1
 20, Nov 2018 12:58:42 PM Status is up
 20, Nov 2018 12:58:46 PM Protocol: Telnet
 20, Nov 2018 12:58:46 PM Authorized
 20, Nov 2018 12:58:48 PM Device is rebooted
+
+20, Nov 2018 12:58:39 PM Connecting to: ADDRESS2
+20, Nov 2018 12:58:42 PM Status is up
+20, Nov 2018 12:58:46 PM Protocol: HTTP
+20, Nov 2018 12:58:46 PM Authorized
+20, Nov 2018 12:58:46 PM Model is 840N
+20, Nov 2018 12:58:48 PM Device is rebooted
+
 
