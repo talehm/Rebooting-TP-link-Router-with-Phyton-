@@ -1,0 +1,58 @@
+20, Nov 2018 12:57:09 PM Connecting to: AP057
+20, Nov 2018 12:57:11 PM Status is up
+20, Nov 2018 12:57:18 PM Process failed
+20, Nov 2018 12:57:18 PM AP057 could not rebooted 
+ 
+20, Nov 2018 12:57:18 PM Connecting to: AP124
+20, Nov 2018 12:57:31 PM Status is down
+
+20, Nov 2018 12:57:31 PM Connecting to: AP031
+20, Nov 2018 12:57:33 PM Status is up
+20, Nov 2018 12:57:40 PM Process failed
+20, Nov 2018 12:57:40 PM AP031 could not rebooted 
+ 
+20, Nov 2018 12:57:40 PM Connecting to: AP129
+20, Nov 2018 12:57:42 PM Status is up
+20, Nov 2018 12:57:47 PM Process failed
+20, Nov 2018 12:57:47 PM AP129 could not rebooted 
+ 
+20, Nov 2018 12:57:47 PM Connecting to: AP130
+20, Nov 2018 12:57:49 PM Status is up
+20, Nov 2018 12:57:54 PM Process failed
+20, Nov 2018 12:57:54 PM AP130 could not rebooted 
+ 
+20, Nov 2018 12:57:54 PM Connecting to: MAP007
+20, Nov 2018 12:57:56 PM Status is up
+20, Nov 2018 12:58:06 PM Process failed
+20, Nov 2018 12:58:06 PM MAP007 could not rebooted 
+ 
+20, Nov 2018 12:58:06 PM Connecting to: AP138
+20, Nov 2018 12:58:08 PM Status is up
+20, Nov 2018 12:58:21 PM Process failed
+20, Nov 2018 12:58:21 PM AP138 could not rebooted 
+ 
+20, Nov 2018 12:58:21 PM Connecting to: AP102
+20, Nov 2018 12:58:24 PM Status is up
+20, Nov 2018 12:58:28 PM Protocol: Telnet
+20, Nov 2018 12:58:28 PM Authorized
+20, Nov 2018 12:58:30 PM Device is rebooted
+
+20, Nov 2018 12:58:30 PM Connecting to: AP094
+20, Nov 2018 12:58:33 PM Status is up
+20, Nov 2018 12:58:37 PM Protocol: Telnet
+20, Nov 2018 12:58:37 PM Authorized
+20, Nov 2018 12:58:39 PM Device is rebooted
+
+20, Nov 2018 12:58:39 PM Connecting to: AP076
+20, Nov 2018 12:58:42 PM Status is up
+20, Nov 2018 12:58:46 PM Protocol: Telnet
+20, Nov 2018 12:58:46 PM Authorized
+20, Nov 2018 12:58:48 PM Device is rebooted
+
+20, Nov 2018 12:58:48 PM Connecting to: AP089
+20, Nov 2018 12:58:51 PM Status is up
+20, Nov 2018 12:58:56 PM Process failed
+20, Nov 2018 12:58:56 PM AP089 could not rebooted 
+ 
+20, Nov 2018 12:58:56 PM Connecting to: AP123
+20, Nov 2018 12:58:58 PM Status is up
